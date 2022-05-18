@@ -12,3 +12,5 @@ Projects must use INET256 for communication, and link to [INET256](https://githu
 ## Filesharing, Content Discovery
 - [hoard](https://github.com/brendoncarroll/hoard) A content management system built on blobcache
 
+## Messaging & Social Media
+- [owl](https://github.com/owlmessenger/owl) A fully distributed, secure instant messenger
